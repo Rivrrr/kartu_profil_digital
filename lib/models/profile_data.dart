@@ -11,8 +11,8 @@ class ProfileData {
 
   /// Data bawaan saat belum ada data tersimpan.
   static const defaults = ProfileData(
-    name: 'Fakhry Firdaus',
-    title: 'Software Engineer & Dosen',
-    bio: 'Suka membangun aplikasi mobile dan berbagi ilmu.',
+    name: 'Fatqul Iman',
+    title: 'Prompt Engineer',
+    bio: 'saya suka Jadi Mandor',
   );
 }
